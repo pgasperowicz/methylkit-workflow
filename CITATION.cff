@@ -13,5 +13,5 @@ abstract: >
   computations, and generates publication-ready visualizations with ggplot2.
 repository-code: "https://github.com/pgasperowicz/methylkit-workflow"
 license: "MIT"
-version: "1.0.0"
+version: "0.0.1-alpha"
 date-released: "2025-09-15"
