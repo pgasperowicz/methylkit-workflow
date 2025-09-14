@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "methylkit-workflow"
+message: "If you use this workflow in your research, please cite it as below."
+type: software
+authors:
+  - family-names: "Gasperowicz"
+    given-names: "Piotr"
+    affiliation: "Medical University of Warsaw, Poland"
+    orcid: "https://orcid.org/0000-0002-1037-7974"
+abstract: >
+  A reproducible workflow for methylKit-based DNA methylation analysis.
+  Loads sample metadata from an annotation master file, performs DMR/DMG
+  computations, and generates publication-ready visualizations with ggplot2.
+repository-code: "https://github.com/pgasperowicz/methylkit-workflow"
+license: "MIT"
+version: "1.0.0"
+date-released: "2025-09-15"

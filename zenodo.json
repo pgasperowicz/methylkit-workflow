@@ -1,0 +1,31 @@
+{
+  "title": "methylkit-workflow",
+  "description": "A reproducible workflow for methylKit-based DNA methylation analysis. Loads sample metadata from an annotation master file, performs DMR/DMG computations, and generates publication-ready visualizations with ggplot2.",
+  "creators": [
+    {
+      "name": "Gasperowicz, Piotr",
+      "affiliation": "Medical University of Warsaw, Poland",
+      "orcid": "0000-0002-1037-7974"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "methylKit",
+    "DNA methylation",
+    "RRBS",
+    "DMR analysis",
+    "bioinformatics",
+    "workflow"
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/pgasperowicz/methylkit-workflow",
+      "resource_type": "software"
+    }
+  ]
+}
